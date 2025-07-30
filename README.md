@@ -12,9 +12,7 @@ Setup vs 13 for Igraphics.( https://www.youtube.com/watch?v=9NtOduwGeB4&list=PLK
 Download the iGraphics library files.
 Download IGraphics files.(https://drive.google.com/file/d/1ggVImYvNrD7jrBKit6MvZG3wg-SOS4Iu/view?usp=sharing)
 Clone or download this repository to your local machine.
-
 Open the project folder and run the imain.cpp file.
-
 Enjoy the game!
 
 
